@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Varna S</h1>
-<h3 align="center">A passionate AI Enthusiast</h3>
+<h3 align="center">A passionate Artificial Intelligence Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varnaks553" alt="varnaks553" /> </p>
 
-- 🔭 I’m currently working on **Python and AI**
+- 🔭 I’m currently working on **Python and Artificial Intelligence**
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **AI**
+- 👯 I’m looking to collaborate on **Artificial Intelligence**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varnaks553](https://github.com/varnaks553)
 
