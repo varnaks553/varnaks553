@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Varna S</h1>
+<h3 align="center">A passionate AI Enthusiast</h3>
 
-<!--
-**varnaks553/varnaks553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varnaks553" alt="varnaks553" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Python and AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python**
+
+- 👯 I’m looking to collaborate on **AI**
+
+- 🤝 I’m looking for help with **AI**
+
+- 👨‍💻 All of my projects are available at [https://github.com/varnaks553](https://github.com/varnaks553)
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **varnaks553@gmail.com**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varnaks553&show_icons=true" alt="varnaks553" /></p>
+
